@@ -5,3 +5,5 @@ This repo contains the instructions and assets required to complete the exercise
 ### Reporting issues
 
 If you encounter any problems in the exercises, please report them as **issues** in this repo.
+pip
+ install openai== 1.13.3
